@@ -27,7 +27,7 @@
 
 Improving problem-solving skills and building a strong foundation in software development.
 
-## ⚡ Fun Fact
+## ⚡ Fact
 
 Always learning something new.
 
