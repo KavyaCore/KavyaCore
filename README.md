@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Kavya Ladha
 
-<!--
-**KavyaCore/KavyaCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Computer Science Engineering student at JIIT Noida (Sector 62).
 
-Here are some ideas to get you started:
+## 💻 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* Data Structures & Algorithms
+* Git & GitHub
+* Web Development
+
+## 🚀 Goals for 2026
+
+* Solve 300+ DSA problems
+* Build 10+ projects
+* Contribute to Open Source
+* Learn Full-Stack Development
+
+## 📈 Current Focus
+
+Improving problem-solving skills and building a strong foundation in software development.
+
+## ⚡ Fun Fact
+
+Always learning something new.
+
+## 📫 Connect with Me
+
+📧 [ladhakavya@gmail.com](mailto:ladhakavya@gmail.com)
