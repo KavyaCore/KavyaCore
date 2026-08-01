@@ -16,6 +16,13 @@
 * Contribute to Open Source
 * Learn Full-Stack Development
 
+
+## 🖥️ IDE & Editor
+
+* IntelliJ IDEA
+* Visual Studio Code
+
+
 ## 📈 Current Focus
 
 Improving problem-solving skills and building a strong foundation in software development.
